@@ -1,6 +1,5 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=5000&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+🙏;%F0%9F%91%8B+Pravesh+Agarwal+👋;%E2%9C%8C%EF%B8%8F+Nice+to+meet+you!+%F0%9F%A4%9D)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+%F0%9F%99%8F)
 
 
 <!--
