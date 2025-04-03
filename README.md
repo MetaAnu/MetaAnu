@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=4000&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+🙏;Hello,+I'm+Anurag+Singh;Data+Analytics+|+Problem+Solver+📊;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=500&height=60&duration=4000&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)+🙏;I'm+Anurag+Singh;Nice+to+meet+you!+😊)
+
 
 
 
