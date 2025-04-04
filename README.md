@@ -43,9 +43,9 @@ Welcome, brave traveler! I'm **King Khan**, a **Data Analyst** on a mission to t
 
 ## 🗺️ Portals
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) – Connect with me on my professional quest
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anurag-singh-dataanalyst) – Connect with me on my professional quest
 - 🧪 [View Project Banner](https://your-project-banner-link.com/banner.gif) – Witness my latest project spell!
-- 📁 [Explore Repos](https://github.com/your-github-username?tab=repositories) – Dig through my treasure trove
+- 📁 [Explore Repos](https://github.com/MetaAnu/Portfolio_Projects) – Dig through my treasure trove
 
 ---
 
@@ -61,8 +61,8 @@ Welcome, brave traveler! I'm **King Khan**, a **Data Analyst** on a mission to t
 ## 🔮 Stats So Far...
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?MetaAnu&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?MetaAnu&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
