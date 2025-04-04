@@ -14,7 +14,7 @@
 
 ## 🎮 Your Quest Begins Here
 
-Welcome, brave traveler! I'm **King Khan**, a **Data Analyst** on a mission to turn **raw data** into **golden insights**. Explore my realm and uncover dashboards, automation spells, and story-driven reports!
+Welcome, brave traveler! I'm **Anurag Singh**, a **Data Analyst** on a mission to turn **raw data** into **golden insights**. Explore my realm and uncover dashboards, automation spells, and story-driven reports!
 
 ---
 
