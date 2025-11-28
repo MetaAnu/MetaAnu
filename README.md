@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🗺️ Data Analyst | 📊 Excel | 📈 Power BI | 🔍 Adobe Analytics | 🧠 Insights Alchemist
+  🗺️ Data Analyst | 📊 Excel | 📈 Power BI |  🧠 Insights Alchemist
 </p>
 
 ---
